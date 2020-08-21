@@ -1,2 +1,1 @@
-# itcalc
-Income tax calculator 2020
+### Income tax calculator 2020
